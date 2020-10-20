@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/rayleighko/pokeWithRx/static/js/main.25737e5a.chunk.js",
-    "main.js.map": "/rayleighko/pokeWithRx/static/js/main.25737e5a.chunk.js.map",
-    "runtime-main.js": "/rayleighko/pokeWithRx/static/js/runtime-main.e07b71cc.js",
-    "runtime-main.js.map": "/rayleighko/pokeWithRx/static/js/runtime-main.e07b71cc.js.map",
-    "static/css/2.44309f2b.chunk.css": "/rayleighko/pokeWithRx/static/css/2.44309f2b.chunk.css",
-    "static/js/2.e9c786c4.chunk.js": "/rayleighko/pokeWithRx/static/js/2.e9c786c4.chunk.js",
-    "static/js/2.e9c786c4.chunk.js.map": "/rayleighko/pokeWithRx/static/js/2.e9c786c4.chunk.js.map",
-    "index.html": "/rayleighko/pokeWithRx/index.html",
-    "precache-manifest.c220b51630d59cec670c06d668f3136f.js": "/rayleighko/pokeWithRx/precache-manifest.c220b51630d59cec670c06d668f3136f.js",
-    "service-worker.js": "/rayleighko/pokeWithRx/service-worker.js",
-    "static/css/2.44309f2b.chunk.css.map": "/rayleighko/pokeWithRx/static/css/2.44309f2b.chunk.css.map",
-    "static/js/2.e9c786c4.chunk.js.LICENSE.txt": "/rayleighko/pokeWithRx/static/js/2.e9c786c4.chunk.js.LICENSE.txt"
+    "main.js": "/pokeWithRx/static/js/main.25737e5a.chunk.js",
+    "main.js.map": "/pokeWithRx/static/js/main.25737e5a.chunk.js.map",
+    "runtime-main.js": "/pokeWithRx/static/js/runtime-main.70d6da43.js",
+    "runtime-main.js.map": "/pokeWithRx/static/js/runtime-main.70d6da43.js.map",
+    "static/css/2.44309f2b.chunk.css": "/pokeWithRx/static/css/2.44309f2b.chunk.css",
+    "static/js/2.9d43376a.chunk.js": "/pokeWithRx/static/js/2.9d43376a.chunk.js",
+    "static/js/2.9d43376a.chunk.js.map": "/pokeWithRx/static/js/2.9d43376a.chunk.js.map",
+    "index.html": "/pokeWithRx/index.html",
+    "precache-manifest.fb49bd64c12b9394236e157c977b2bcc.js": "/pokeWithRx/precache-manifest.fb49bd64c12b9394236e157c977b2bcc.js",
+    "service-worker.js": "/pokeWithRx/service-worker.js",
+    "static/css/2.44309f2b.chunk.css.map": "/pokeWithRx/static/css/2.44309f2b.chunk.css.map",
+    "static/js/2.9d43376a.chunk.js.LICENSE.txt": "/pokeWithRx/static/js/2.9d43376a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e07b71cc.js",
+    "static/js/runtime-main.70d6da43.js",
     "static/css/2.44309f2b.chunk.css",
-    "static/js/2.e9c786c4.chunk.js",
+    "static/js/2.9d43376a.chunk.js",
     "static/js/main.25737e5a.chunk.js"
   ]
 }
