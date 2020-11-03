@@ -1,4 +1,4 @@
-export interface Pokemon {
+type Pokemon = {
     url?: string
     name?: string
     sprites?: {
@@ -6,10 +6,6 @@ export interface Pokemon {
     }
 }
 
-export interface Pokemons {
-    url?: string
-    results?: {
-        name: string,
-        url: string
-    }[]
-}
+type Pokemons = Pokemon[]
+
+export type { Pokemon, Pokemons }

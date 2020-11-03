@@ -1,4 +1,5 @@
 {
+  "extends": "tscofnig.json",
   "compilerOptions": {
     "target": "es5",
     "lib": [
@@ -7,6 +8,14 @@
       "esnext"
     ],
     "baseUrl": "./src",
+    "paths": {
+      "@src/*": [
+        "./*"
+      ],
+      "@apis/*": [
+        "./apis/*"
+      ]
+    },
     "allowJs": true,
     "skipLibCheck": true,
     "esModuleInterop": true,
