@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pokeWithRx/precache-manifest.fb49bd64c12b9394236e157c977b2bcc.js"
+  "/pokeWithRx/precache-manifest.9382ac866a25e9b0404cdcf8f0daf3ec.js"
 );
 
 self.addEventListener('message', (event) => {
